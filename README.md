@@ -32,7 +32,7 @@ cd Subtitle-Desktop-App</code></pre>
 <p>The application window will open, allowing you to drag and drop <code>.srt</code> files or use the "Choose file(s)" button to add files.<br>Once the files are added, select the files you wish to fix using the checkboxes, and click the "Fix file(s)" button.<br>After fixing, click the "Save file(s)" button to save the fixed files as a zip archive.</p>
 
 <h2>Contact</h2>
-<p>For any inquiries or issues, please contact <strong>Arhan Goncalı</strong> through the project's <a href="https://github.com/ArhanGoncaliOfficial/SubtitleFixer/issues">GitHub Issues</a> page or send me an <a href= "mailto: arhangoncaliofficial@gmail.com">email</a>.</p>
+<p>For any inquiries or issues, please contact <strong>Arhan Goncalı</strong> through the project's <a href="https://github.com/ArhanGoncaliOfficial/Subtitle-Desktop-App/issues">GitHub Issues</a> page or send me an <a href= "mailto: arhangoncaliofficial@gmail.com">email</a>.</p>
 
 <h2>Acknowledgements</h2>
 <p>Made by <strong>Arhan Goncalı</strong></p>
